@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Nimra-waheed. A Software Engineering student currently in my last Semester.
+- 👀 I’m interested in Traveling, Painting and exploring new things everyday...
+- 🌱 I want to pursue SQA as a career ...
+- 📫 You can reach me at nimrawaheed549@gmail.com ...
+
+<!---
+Nimra-waheed/Nimra-waheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
